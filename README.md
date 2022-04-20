@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soscarlos
-- 👀 I’m interested in lerning coding and being a developer
-- 🌱 I’m currently learning python and the essentials of programming
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in lerning coding and being a web developer
+- 🌱 I’m currently learning python, python Flask, Javascript, html, css and the essentials of programming
+- 💞️ I’m looking to collaborate on python and web development projects
 - 📫 How to reach me on Discord CarlosSosa#6167
 
 <!---
