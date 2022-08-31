@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos (@soscarlos)
-- 👀 I’m interested in lerning coding and being a web developer
-- 🌱 I’m currently learning java, python, Javascript, html, css and the essentials of programming
+- 👀 I’m interested in being a web developer
+- 🌱 I’m currently learning Java, Spring, React, SQL, Python, Javascript, HTML, CSS and the essentials of programming
 - 💞️ I’m looking to collaborate on java and web development projects
 - 📫 How to reach me on Discord CarlosSosa#6167
 
