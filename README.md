@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carlos (@soscarlos)
-- 👀 I’m full-stack junior developer
-- 🌱 I’m currently working on Java, Spring, React, SQL, Python, Javascript, HTML, CSS
-- 💞️ I’m looking to collaborate on java and web development projects with libraries such as React
+- 👀 I’m a full-stack developer
+- 🌱 I’m familiar with Java, Spring, React, SQL, Python, Javascript, HTML, CSS and learing C# and Vue.js
+- 💞️ I’m looking to collaborate on java, c# and web development frontend projects using React or Vue.js
 - 📫 How to reach me on Discord CarlosSosa#6167
 
 <!---
